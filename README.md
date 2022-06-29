@@ -19,6 +19,6 @@
 
 # model performance
 30 epochs is starting standard
-The performance step flattens out after 35+
-[![image](https://user-images.githubusercontent.com/65574434/176376824-6789c16e-696e-400f-8b2f-8265e4705898.png)]
-
+The performance steps flatten out after 35+
+#
+prediction = model.predict(testX)
